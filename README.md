@@ -13,11 +13,11 @@ A business intelligence dashboard for Atlantic Recording Corp., analyzing 27,000
 [GitHub Repo →](https://github.com/Garvitk001/atlantic-france-analysis) | [🔴 Live App →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
 
 🏏 **IPL Intelligence Predictor Platform**  
-An autonomous, real-time cricket analytics engine featuring 3 phase-specific Machine Learning models, Google Gemini-powered commentary, and live Telegram alerts.  
+An autonomous, real-time cricket analytics engine featuring 3 phase-specific Machine Learning models, Google Gemini-powered commentary.  
 [GitHub Repo →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform) | [🔴 Live App →](https://ipl-2026-pro.streamlit.app/)
 
-🍽️ **[Insert Restaurant Project Name]**  
-*[Insert a 1-2 sentence description of what the platform does, who it helps, and the core technologies used (e.g., Streamlit, Pandas, etc.)]*  
+🍽️ **Global Restaurant Analytics Dashboard **  
+An interactive, enterprise-grade data visualization and machine learning dashboard built with Streamlit. This application analyzes global restaurant data to uncover business insights, customer preferences, and predictive metrics
 [GitHub Repo →](https://github.com/Garvitk001/restaurant-analytics) | [🔴 Live App →](https://restaurantanalytics.streamlit.app/)
 
 ---
