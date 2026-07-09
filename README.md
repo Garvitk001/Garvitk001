@@ -2,23 +2,27 @@
 
 🎓 B.Tech — AI & Data Science | Arya College of Engineering & IT | CGPA: 8.3  
 📍 Jaipur, Rajasthan  
-🔍 Actively seeking Data Science / ML Internship 2026  
+🔍 Actively seeking Data Science / ML Full-Time Roles 2026  
 
 ---
 
-## What I Build
+## 🚀 What I Build
+
+📊 **Atlantic France Analysis**  
+A business intelligence dashboard for Atlantic Recording Corp., analyzing 27,000+ playlist records to uncover market trends and audience preferences in the French music industry.  
+[GitHub Repo →](https://github.com/Garvitk001/atlantic-france-analysis) | [🔴 Live App →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
 
 🏏 **IPL Intelligence Predictor Platform**  
-Real-time cricket analytics with 3 phase-specific ML models + Google Gemini AI commentary + Telegram alerts  
-[View Project →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform)
+An autonomous, real-time cricket analytics engine featuring 3 phase-specific Machine Learning models, Google Gemini-powered commentary, and live Telegram alerts.  
+[GitHub Repo →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform) | [🔴 Live App →](https://ipl-2026-pro.streamlit.app/)
 
-📊 **France Top 50 Market Intelligence Dashboard**  
-Business intelligence project for Atlantic Recording Corp. — analyzed 27,000+ playlist records  
-[Live App →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
+🍽️ **[Insert Restaurant Project Name]**  
+*[Insert a 1-2 sentence description of what the platform does, who it helps, and the core technologies used (e.g., Streamlit, Pandas, etc.)]*  
+[GitHub Repo →](https://github.com/Garvitk001/restaurant-analytics) | [🔴 Live App →](https://restaurantanalytics.streamlit.app/)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Machine Learning & AI**  
 ![Python](https://img.shields.io/badge/Python-1A3A5C?style=flat&logo=python&logoColor=white)
@@ -40,12 +44,6 @@ Business intelligence project for Atlantic Recording Corp. — analyzed 27,000+ 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Business Skills**  
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-1A3A5C?style=flat&logoColor=white)
-![Market Segmentation](https://img.shields.io/badge/Market_Segmentation-2E6DA4?style=flat&logoColor=white)
-![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-0F6E56?style=flat&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-633806?style=flat&logoColor=white)
-
 **Tools & Infra**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -61,7 +59,7 @@ Business intelligence project for Atlantic Recording Corp. — analyzed 27,000+ 
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/garvit-khuteta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:garvit2005k@gmail.com)
