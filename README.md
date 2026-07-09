@@ -17,7 +17,7 @@ An autonomous, real-time cricket analytics engine featuring 3 phase-specific Mac
 [GitHub Repo →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform) | [🔴 Live App →](https://ipl-2026-pro.streamlit.app/)
 
 🍽️ **Global Restaurant Analytics Dashboard **  
-This application analyzes global restaurant data to uncover business insights, customer preferences, and predictive metrics
+This application analyzes global restaurant data to uncover business insights, customer preferences, and predictive metrics                          
 [GitHub Repo →](https://github.com/Garvitk001/restaurant-analytics) | [🔴 Live App →](https://restaurantanalytics.streamlit.app/)
 
 ---
