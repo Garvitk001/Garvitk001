@@ -10,7 +10,7 @@
 
 📊 **Atlantic France Analysis**  
 A business intelligence dashboard for Atlantic Recording Corp., analyzing 27,000+ playlist records to uncover market trends and audience preferences in the French music industry.  
-[GitHub Repo →](https://github.com/Garvitk001/atlantic-france-analysis) | [🔴 Live App →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
+[GitHub Repo →](https://github.com/Garvitk001/atlantic-france-analytics) | [🔴 Live App →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
 
 🏏 **IPL Intelligence Predictor Platform**  
 An autonomous, real-time cricket analytics engine featuring 3 phase-specific Machine Learning models, Google Gemini-powered commentary.  
