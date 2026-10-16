@@ -1,7 +1,6 @@
 # Hi, I'm Garvit Khuteta 👋
 
 🎓 **B.Tech in Artificial Intelligence & Data Science** | Arya College of Engineering & IT (CGPA: 8.3)  
-📍 Jaipur, Rajasthan, India  
 🎯 **Actively seeking Entry-Level Roles (2026 Batch)** — Open to immediate joining & internships leading to full-time  
 
 ---
