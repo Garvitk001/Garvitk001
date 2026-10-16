@@ -1,16 +1,19 @@
 # Hi, I'm Garvit Khuteta 👋
 
 🎓 **B.Tech in Artificial Intelligence & Data Science** | Arya College of Engineering & IT (CGPA: 8.3)  
-🎯 **Actively seeking Entry-Level Roles (2026 Batch)** — Open to immediate joining & internships  
+🎯 **Actively seeking Entry-Level Roles (2026 Batch)** — Open to immediate joining & internships leading to full-time  
 
 ---
 
-## ⚡ Highlights
+## ⚡ What Sets Me Apart From Other Freshers
 
-* 🚀 **4 Production Deployments:** Live and interactive on the cloud ([Streamlit](https://ipl-2026-pro.streamlit.app/) & [Vercel](https://market-mind-ai-sales.vercel.app)).
-* 🤖 **AI-Augmented Velocity:** Using modern AI workflows to write clean code, scaffold tests, and build 3x faster.
-* 🧪 **Tested & Reliable:** Built **79 automated tests** (Pytest + Vitest, 100% pass rate) in MarketMind AI.
-* 🔄 **Full Data Lifecycle:** Proficient from SQL queries and ML models to FastAPI REST APIs and UI dashboards.
+| What Most Freshers Do | How I Work & Deliver |
+| :--- | :--- |
+| **Localhost Only**<br>Projects stay on personal laptops or Jupyter Notebooks. | 🚀 **Production-First Deployments**<br>All 4 major projects are live on the cloud ([Streamlit](https://ipl-2026-pro.streamlit.app/) & [Vercel](https://market-mind-ai-sales.vercel.app)). Anyone can test them in real-time. |
+| **Slow, Manual Workflows**<br>Spends days writing repetitive boilerplate and searching syntax. | 🤖 **AI-Native 10X Speed**<br>I use modern AI tools to scaffold boilerplate, generate test cases, and prototype features 3x faster while maintaining clean architecture. |
+| **No Automated Testing**<br>Code breaks on basic edge cases with zero test coverage. | 🧪 **Real Engineering Standards**<br>Built **79 automated tests** (Pytest + Vitest, 100% pass rate) in my flagship platform. I write reliable, tested code. |
+| **Isolated Knowledge**<br>Only knows ML theory *or* only basic web dev. | 🔄 **End-to-End Data & Software Skills**<br>I handle the whole pipeline: raw data cleaning with SQL ➔ ML predictive modeling ➔ FastAPI REST backends ➔ interactive UI dashboards. |
+| **Tutorial Clones**<br>Rebuilding generic tutorial datasets with no business value. | 💼 **Real Business Problem Solving**<br>Engineered retail sales demand forecasting, live cricket match telemetry, and music market compliance intelligence. |
 
 ---
 
@@ -67,44 +70,11 @@
 
 ## 🛠️ Technical Skills
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat&logo=googlegemini&logoColor=white)
-
-### Data Analytics & Visualization
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-
-### Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat&logo=postman&logoColor=white)
-
-### Developer Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+* **Data Science & ML:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Prophet, Exploratory Data Analysis (EDA), Feature Engineering
+* **Data Analytics & BI:** SQL (Aggregations, Window Functions, Joins), Plotly, Streamlit, Power BI, Excel
+* **Data Engineering & Backend:** PostgreSQL, SQLite, FastAPI, REST APIs, SQLAlchemy, Git, Linux/Bash
+* **Software Development & Testing:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Pytest, Vitest, Postman
+* **AI & Modern Workflow:** Google Gemini API, Prompt Engineering, AI-Assisted Testing, Rapid Prototyping
 
 ---
 
