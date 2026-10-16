@@ -1,6 +1,6 @@
 # Hi, I'm Garvit Khuteta 👋
 
-🎓 **B.Tech in Artificial Intelligence & Data Science** | Arya College of Engineering & IT (CGPA: 8.3)  
+🎓 **B.Tech in Artificial Intelligence & Data Science** | Arya College of Engineering & IT (CGPA: 8.33)  
 🎯 **Actively seeking Entry-Level Roles (2026 Batch)** — Open to immediate joining & internships leading to full-time  
 
 ---
@@ -68,13 +68,14 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical & Professional Skills
 
-* **Data Science & ML:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Prophet, Exploratory Data Analysis (EDA), Feature Engineering
-* **Data Analytics & BI:** SQL (Aggregations, Window Functions, Joins), Plotly, Streamlit, Power BI, Excel
-* **Data Engineering & Backend:** PostgreSQL, SQLite, FastAPI, REST APIs, SQLAlchemy, Git, Linux/Bash
-* **Software Development & Testing:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Pytest, Vitest, Postman
-* **AI & Modern Workflow:** Google Gemini API, Prompt Engineering, AI-Assisted Testing, Rapid Prototyping
+* 📊 **Core Data Science:** Exploratory Data Analysis (EDA), Data Cleaning, Business Intelligence, KPI Analysis, Dashboard Development, Feature Engineering, Predictive Modeling, Machine Learning, Statistical Analysis
+* 💻 **Programming Languages:** Python, SQL
+* 📦 **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, SQLite3, SQLAlchemy, FastAPI
+* 🛠️ **Tools & Platforms:** Microsoft Excel, MySQL, Power BI, Streamlit, Flask, Jupyter Notebook, VS Code, Git, GitHub, Salesforce CRM Platform
+* 🧠 **Computer Science:** Object-Oriented Programming (OOP), DBMS, Data Structures & Algorithms (DSA), Technical Documentation
+* 🤝 **Professional Skills:** Problem Solving, Logical Reasoning, Team Coordination, Adaptability, Quick Learner
 
 ---
 
