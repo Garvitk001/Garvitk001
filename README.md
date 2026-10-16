@@ -2,82 +2,70 @@
 
 🎓 **B.Tech in Artificial Intelligence & Data Science** | Arya College of Engineering & IT (CGPA: 8.3)  
 📍 Jaipur, Rajasthan, India  
-🎯 **Actively seeking Full-Time Opportunities (2026 Batch)**  
+🎯 **Actively seeking Entry-Level Roles (2026 Batch)** — Open to immediate joining & internships leading to full-time  
 
 ---
 
-### 💼 Target Roles (In Priority Order):
-1. 📊 **Data Scientist** (Machine Learning, Predictive Modeling, Feature Engineering)
-2. 📈 **Data Analyst** (Exploratory Data Analysis, SQL, Power BI, Interactive Dashboards)
-3. 🗄️ **Data Engineer** (ETL Pipelines, Relational Databases, PostgreSQL, SQLite, Query Optimization)
-4. 💻 **Software Development Associate (SDA)** (Python, Data Structures & Algorithms, OOP, Clean Code)
-5. ⚙️ **Backend Developer** (FastAPI, REST APIs, Database Management, Automated Testing with Pytest)
+## ⚡ What Sets Me Apart From Other Freshers
 
----
-
-## ⚡ What Makes Me Different From Other Freshers?
-
-Most freshers only know theory or build small demo projects on their local laptop. Here is how I stand out:
-
-* 🚀 **4 Live Deployed Applications:** All my major projects are live on the cloud ([Streamlit](https://ipl-2026-pro.streamlit.app/) and [Vercel](https://market-mind-ai-sales.vercel.app)). Anyone can test them right now.
-* 🤖 **AI-Powered 10X Workflow:** I actively use modern AI tools to write clean code, scaffold unit tests, and automate repetitive tasks. I ship production-grade code 3x faster than average freshers.
-* 🧪 **Real Engineering Standards:** In my flagship project (MarketMind AI), I built **79 automated tests** (Pytest + Vitest) with a 100% pass rate. I care about software that doesn't crash in production.
-* 🔄 **Full Data Lifecycle:** I don't just stay inside Jupyter Notebooks. I take messy raw data, clean it with SQL/Pandas, train ML models, and connect them to live web apps and REST APIs.
+| What Most Freshers Do | How I Work & Deliver |
+| :--- | :--- |
+| **Localhost Only**<br>Projects stay on personal laptops or Jupyter Notebooks. | 🚀 **Production-First Deployments**<br>All 4 major projects are live on the cloud ([Streamlit](https://ipl-2026-pro.streamlit.app/) & [Vercel](https://market-mind-ai-sales.vercel.app)). Anyone can test them in real-time. |
+| **Slow, Manual Workflows**<br>Spends days writing repetitive boilerplate and searching syntax. | 🤖 **AI-Native 10X Speed**<br>I use modern AI tools to scaffold boilerplate, generate test cases, and prototype features 3x faster while maintaining clean architecture. |
+| **No Automated Testing**<br>Code breaks on basic edge cases with zero test coverage. | 🧪 **Real Engineering Standards**<br>Built **79 automated tests** (Pytest + Vitest, 100% pass rate) in my flagship platform. I write reliable, tested code. |
+| **Isolated Knowledge**<br>Only knows ML theory *or* only basic web dev. | 🔄 **End-to-End Data & Software Skills**<br>I handle the whole pipeline: raw data cleaning with SQL ➔ ML predictive modeling ➔ FastAPI REST backends ➔ interactive UI dashboards. |
+| **Tutorial Clones**<br>Rebuilding generic tutorial datasets with no business value. | 💼 **Real Business Problem Solving**<br>Engineered retail sales demand forecasting, live cricket match telemetry, and music market compliance intelligence. |
 
 ---
 
 ## 🚀 Live Featured Projects
 
 ### 1. 💼 [MarketMind AI — Sales Intelligence & Demand Forecasting](https://github.com/Garvitk001/MarketMind-AI-Sales)
-**Target: Data Science • Backend • Software Development Associate**  
-An enterprise sales platform that predicts customer demand, prevents stockouts, and automates business insights.
-* **Tech:** Python, FastAPI, React 18, Scikit-learn, XGBoost, Prophet, PostgreSQL, Pytest.
-* **What I Did:** 
-  * Built time-series models to forecast daily sales demand and customer churn.
-  * Integrated an AI Business Copilot using Google Gemini to answer sales questions in plain English & Hindi.
-  * Built 79 automated tests for backend and frontend to guarantee rock-solid stability.
-* **Links:** [GitHub Repo →](https://github.com/Garvitk001/MarketMind-AI-Sales) | [🔴 Live Web Application →](https://market-mind-ai-sales.vercel.app)
+*Enterprise AI Sales Copilot, Multi-Horizon Demand Forecasting & Business Governance Platform*
+* **Tech Stack:** Python, FastAPI, React 18, Scikit-learn, XGBoost, Prophet, PostgreSQL, Pytest, Vitest
+* **Key Achievements:** 
+  * Built time-series models to predict daily sales volume and detect customer churn risks.
+  * Integrated a bilingual AI Business Copilot using Google Gemini to answer sales queries in natural language.
+  * Wrote **79 automated unit & integration tests** to ensure rock-solid production stability.
+* **Links:** [GitHub Repository →](https://github.com/Garvitk001/MarketMind-AI-Sales) | [🔴 Live Web Application →](https://market-mind-ai-sales.vercel.app)
 
 ---
 
-### 2. 🏏 [IPL Match Intelligence & Live Predictor Engine](https://github.com/Garvitk001/ipl-intelligence-predictor-platform)
-**Target: Data Science • Machine Learning**  
-A real-time cricket analytics platform that predicts match outcomes as the game progresses.
-* **Tech:** Python, Streamlit, Scikit-learn, Google Gemini API, Plotly, RapidAPI.
-* **What I Did:**
-  * Trained 3 machine learning models to calculate live win probability across Powerplay, Middle, and Death overs.
-  * Ingested live ball-by-ball data and used Google Gemini to generate dynamic live match commentary.
-  * Formulated a math-based algorithm to select an optimal, rule-compliant 11-player fantasy lineup.
-* **Links:** [GitHub Repo →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform) | [🔴 Live Dashboard →](https://ipl-2026-pro.streamlit.app/)
+### 2. 🏏 [IPL Match Intelligence & Live Win Predictor](https://github.com/Garvitk001/ipl-intelligence-predictor-platform)
+*Autonomous Real-Time Cricket Telemetry, Live Win Probability Engine & AI Commentary*
+* **Tech Stack:** Python, Streamlit, Scikit-learn, Google Gemini API, Plotly, RapidAPI, Telegram Bot
+* **Key Achievements:**
+  * Deployed 3 specialized ML models calculating dynamic win probability across Powerplay, Middle, and Death overs.
+  * Integrated Google Gemini to generate live, context-aware match commentary from streaming ball-by-ball data.
+  * Formulated a math-based algorithm to select rule-compliant, optimal 11-player fantasy teams.
+* **Links:** [GitHub Repository →](https://github.com/Garvitk001/ipl-intelligence-predictor-platform) | [🔴 Live Dashboard →](https://ipl-2026-pro.streamlit.app/)
 
 ---
 
 ### 3. 📊 [Atlantic France — Music Market Business Intelligence](https://github.com/Garvitk001/atlantic-france-analytics)
-**Target: Data Analyst • Business Intelligence**  
-A business intelligence dashboard analyzing 27,000+ song records for Atlantic Recording Corporation.
-* **Tech:** Python, Streamlit, Pandas, Plotly Express.
-* **What I Did:**
-  * Explored audio features, explicit content performance, and single vs. album format preferences.
-  * Designed 7 interactive visual tabs to help executives make data-backed music release decisions.
-* **Links:** [GitHub Repo →](https://github.com/Garvitk001/atlantic-france-analytics) | [🔴 Live Dashboard →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
+*Audience Sensitivity Analysis & Strategic Content Insights for Atlantic Recording Corporation*
+* **Tech Stack:** Python, Streamlit, Pandas, Plotly Express, Statistical Analysis
+* **Key Achievements:**
+  * Analyzed 27,000+ playlist records to uncover market trends, explicit content impact, and single vs. album performance.
+  * Created 7 interactive analytical tabs to help record label executives make data-driven release strategies.
+* **Links:** [GitHub Repository →](https://github.com/Garvitk001/atlantic-france-analytics) | [🔴 Live Dashboard →](https://atlantic-france-analytics-4ypdl2xsqb8trh2j2vktyl.streamlit.app/)
 
 ---
 
 ### 4. 🍽️ [Global Restaurant Analytics & Rating Predictor](https://github.com/Garvitk001/restaurant-analytics)
-**Target: Data Analyst • Machine Learning**  
-Exploratory data analysis and predictive rating engine (Cognifyz Technologies Internship Project).
-* **Tech:** Python, Streamlit, Scikit-learn, Pandas, Plotly.
-* **What I Did:**
-  * Analyzed restaurant data across global cities with interactive geospatial maps and price tier filters.
-  * Trained regression models (Random Forest, Decision Tree) to predict restaurant ratings accurately.
-* **Links:** [GitHub Repo →](https://github.com/Garvitk001/restaurant-analytics) | [🔴 Live Dashboard →](https://restaurantanalytics.streamlit.app/)
+*Geospatial Market Distribution & Predictive Restaurant Rating Engine*
+* **Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, Plotly (Cognifyz Technologies Internship)
+* **Key Achievements:**
+  * Evaluated global restaurant dining patterns with interactive geospatial maps and multi-tier pricing filters.
+  * Trained machine learning regression models (Random Forest, Decision Tree) to predict customer ratings.
+* **Links:** [GitHub Repository →](https://github.com/Garvitk001/restaurant-analytics) | [🔴 Live Dashboard →](https://restaurantanalytics.streamlit.app/)
 
 ---
 
-## 📚 Coding Discipline & Fundamentals
+## 📚 Engineering Discipline & Hands-On Sprints
 
-* 🐍 [**Python Grind (7-Day Sprint)**](https://github.com/Garvitk001/python-grind) — Core Python, Data Structures & Algorithms (search, sort, stacks, queues), OOP, and Pandas/NumPy from scratch.
-* 🗄️ [**SQL Grind (5-Day Sprint)**](https://github.com/Garvitk001/sql-grind) — Multi-table JOINs, subqueries, CASE statements, CTEs, and window functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`).
+* 🐍 [**Python Grind (7-Day Sprint)**](https://github.com/Garvitk001/python-grind) — Intensive hands-on sprint covering OOP, Data Structures & Algorithms (search, sort, stacks, queues), NumPy, and Pandas from scratch.
+* 🗄️ [**SQL Grind (5-Day Sprint)**](https://github.com/Garvitk001/sql-grind) — Relational schema design, multi-table JOINs, subqueries, CASE expressions, CTEs, and window functions (`ROW_NUMBER`, `RANK`, `LEAD`/`LAG`).
 
 ---
 
@@ -93,7 +81,7 @@ Exploratory data analysis and predictive rating engine (Cognifyz Technologies In
 
 ## 📫 Let's Connect!
 
-I am actively interviewing and available to join immediately for full-time roles or internships leading to PPO.
+I am actively interviewing and available to join immediately.
 
 * 💼 **LinkedIn:** [linkedin.com/in/garvit-khuteta](https://www.linkedin.com/in/garvit-khuteta)
 * 📧 **Email:** [garvit2005k@gmail.com](mailto:garvit2005k@gmail.com)
